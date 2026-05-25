@@ -3,7 +3,7 @@
 
 // ==================== KONFIGURASI ====================
 // GANTI URL INI DENGAN URL WORKER CLOUDFLARE KAMU!
-const WORKER_URL = 'https://holy-snow-c44a.daftaraddyoi.workers.dev';
+const WORKER_URL = 'https://bottelegram.daftaraddyoi.workers.dev/';
 
 // ==================== FUNGSI UTAMA ====================
 // Fungsi untuk mendapatkan IP Address
